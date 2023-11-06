@@ -14,6 +14,7 @@ Here's how it works:
 8. The program then displays the expression and the calculated result.
 
 For example, if you enter "5 + 10", the program will output "Result: 5.0 + 10.0 = 15.0".
+
  
 Program 02
 This program is written in Java and it calculates statistics for a group of students based on their names and scores. Here's a breakdown of how it works:
